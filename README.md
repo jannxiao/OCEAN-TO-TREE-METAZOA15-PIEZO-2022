@@ -4,16 +4,19 @@ This repository contains [Jupyter](http://jupyter.org/) notebooks.
 
 ## View the Notebooks
 
-You can view the notebooks here on GitHub.
+View the notebooks at GitHub or at Nbviewer.
+
+1-mapping-pacbio.ipynb    [Nbviewer](https://nbviewer.org/github/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/1-mapping-pacbio.ipynb) | [Github](https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/1-mapping-pacbio.ipynb) 
+
+6-homologs-genes.ipynb    [Nbviewer](https://nbviewer.org/github/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/6-homologs-genes.ipynb) | [Github](https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/6-homologs-genes.ipynb) 
+
+8-trees-genes.ipynb    [Nbviewer](https://nbviewer.org/github/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/8-trees-genes.ipynb) | [Github](https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/8-trees-genes.ipynb) 
 
 ## Run the Notebooks
 
-You can run these notebooks yourself at [Google Colab](https://colab.research.google.com/).
+Run these notebooks yourself at [Google Colab](https://colab.research.google.com/).
 
-To open the notebooks in Colab, go to https://colab.research.google.com/github/ and paste the link to this github repository in the prompt provided.
+Go to https://colab.research.google.com/github/ and enter the url in the prompt as shown to work with our notebooks in Google Colab.
 
-Link: https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/
+![image](https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/colab-github-link.png)
 
-## License
-
-~~Notebooks are copyright (c) 2015 IBM Corporation under the MIT license. See LICENSE for details.~~
