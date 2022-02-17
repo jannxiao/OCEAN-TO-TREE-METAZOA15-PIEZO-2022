@@ -16,7 +16,7 @@ View the notebooks at GitHub or at Nbviewer.
 
 Run these notebooks yourself at [Google Colab](https://colab.research.google.com/).
 
-Go to https://colab.research.google.com/github/ and enter the url in the prompt as shown below.
+Go to https://colab.research.google.com/github/ and enter the repository url in the prompt as shown below.
 
 ![image](https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/colab-github-example.jpg)
 
