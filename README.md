@@ -1,4 +1,4 @@
-# OCEAN-TO-TREE (METAZOA15-PIEZO-2022)
+# OCEAN-TO-TREE METAZOA15-PIEZO-2022
 
 This repository contains [Jupyter](http://jupyter.org/) notebooks.
 
