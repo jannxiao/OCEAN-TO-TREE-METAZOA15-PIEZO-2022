@@ -18,5 +18,5 @@ Run these notebooks yourself at [Google Colab](https://colab.research.google.com
 
 Go to https://colab.research.google.com/github/ and enter the url in the prompt as shown to work with our notebooks in Google Colab.
 
-![image](https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/colab-github-link.png)
+![image](https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/blob/main/colab-github-example.png)
 
