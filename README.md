@@ -8,7 +8,11 @@ You can view the notebooks here on GitHub.
 
 ## Run the Notebooks
 
-You can run these notebooks yourself at [Google Colab](https://colab.research.google.com/github/). Paste a link to this github repository "https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022" in the prompt to activate the notebooks.
+You can run these notebooks yourself at [Google Colab](https://colab.research.google.com/).
+
+To open the notebooks in Colab, go to https://colab.research.google.com/github/ and paste the link to this github repository in the prompt provided.
+
+Link: https://github.com/jannxiao/OCEAN-TO-TREE-METAZOA15-PIEZO-2022/
 
 ## License
 
