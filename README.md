@@ -1,6 +1,6 @@
 # Ocean-To-Tree-Metazoa15-Piezo-2022
 
-![image1](https://github.com/jannxiao/Ocean-To-Tree-Metazoa15-Piezo-2022/blob/main/617px-Comb_jelly_2.jpeg) 
+![image1](https://github.com/jannxiao/Ocean-To-Tree-Metazoa15-Piezo-2022/blob/main/Mnemiopsis_leidyi_2.jpeg) 
 
 ## View the Jupyter Notebooks
 
