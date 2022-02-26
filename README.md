@@ -6,8 +6,6 @@
 
 View the notebooks at GitHub or at Nbviewer.
 
-1-mapping-pacbio.ipynb    [Nbviewer](https://nbviewer.org/github/jannxiao/Ocean-To-Tree-Metazoa15-Piezo-2022/blob/main/1-mapping-pacbio.ipynb) | [Github](https://github.com/jannxiao/Ocean-To-Tree-Metazoa15-Piezo-2022/blob/main/1-mapping-pacbio.ipynb) 
-
 pipeline-notebook.ipynb    [Nbviewer](https://nbviewer.org/github/jannxiao/Ocean-To-Tree-Metazoa15-Piezo-2022/blob/main/pipeline-notebook.ipynb) | [Github](https://github.com/jannxiao/Ocean-To-Tree-Metazoa15-Piezo-2022/blob/main/pipeline-notebook.ipynb) 
 
 ## Run the Jupyter Notebooks
